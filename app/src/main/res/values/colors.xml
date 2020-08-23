@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0017AC</color>
+    <color name="colorPrimaryDark">#000A39</color>
+    <color name="colorAccent">#00C1D3</color>
+    <color name="colorDarkPrimary">#000000</color>
+    <color name="colorControlNormal">#FFFFFF</color>
+
+    <color name="error_toast">#FF0000</color>
+
+    <color name="color_select_false">#FFFFFF</color>
+    <color name="color_select_true">#494B55</color>
+
+    <color name="modeDark">#171717</color>
+    <color name="modeLight">#FFFFFF</color>
+
+</resources>
